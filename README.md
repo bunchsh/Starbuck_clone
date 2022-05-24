@@ -1,2 +1,3 @@
 # Starbuck_clone
-https://www.starbucks.co.kr/index.do
+original: https://www.starbucks.co.kr/index.do
+clone: https://bunchsh.github.io/portfolio/starbucksClone/
